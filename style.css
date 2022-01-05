@@ -37,6 +37,7 @@ margin: 0;
 }
 p{
     color: grey;
+    text-align: justify;
 }
 .zahid{
     color: orange;
@@ -70,7 +71,8 @@ background-repeat: no-repeat;
     box-shadow: 5px 0px 25px grey ;
     margin-left: 75px;
     padding-left: 40px;
-    padding-bottom: 50px;
+    padding-right: 40px;
+    padding-bottom: 30px;
     border-left: 7px solid;
     border-image: linear-gradient(lightsalmon, tomato);
     border-image-slice: 1;
@@ -80,4 +82,9 @@ background-repeat: no-repeat;
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+}
+/* Experiences section ends */
+/* Footer section starts */
+footer p{
+    text-align: center;
 }
