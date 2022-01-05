@@ -5,6 +5,8 @@ font-family: 'Poppins', sans-serif;
 /* google-font CSS rule ends  */
 margin: 0;
 }
+
+/* top section css style starts */
 .button{
     text-decoration: none;
     color: white;
@@ -31,10 +33,22 @@ margin: 0;
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 p{
     color: grey;
 }
 .zahid{
     color: orange;
+}
+/* top section css style ends */
+
+.showcage-section{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+h2{font-size: 40px;
+    font-weight: 800;
 }
