@@ -42,13 +42,26 @@ p{
     color: orange;
 }
 /* top section css style ends */
-
+/* showcage section starts */
 .showcage-section{
     display: flex;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 150px;
 }
 h2{font-size: 40px;
     font-weight: 800;
+}
+/* showcage section ends */
+/* Experiences section starts */
+.experience{
+    display: flex;
+    width: 90%;
+}
+.experience-section{
+background-image: url(images/exp-bg.png);
+background-repeat: no-repeat;
+    background-position: left;
+     margin-bottom: 150px;
 }
