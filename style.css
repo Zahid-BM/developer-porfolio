@@ -1,0 +1,40 @@
+body{
+   
+    /* google-font CSS rule starts  */
+font-family: 'Poppins', sans-serif;
+/* google-font CSS rule ends  */
+margin: 0;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+ .half-width h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+.half-width{
+    width: 50%;
+ padding-left:7%;
+    
+}
+.half-width img{
+    width: 85%;   
+
+}
+
+.top-section{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+p{
+    color: grey;
+}
+.zahid{
+    color: orange;
+}
