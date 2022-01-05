@@ -57,11 +57,27 @@ h2{font-size: 40px;
 /* Experiences section starts */
 .experience{
     display: flex;
-    width: 90%;
+    width: 94%;
+    
 }
 .experience-section{
 background-image: url(images/exp-bg.png);
 background-repeat: no-repeat;
     background-position: left;
      margin-bottom: 150px;
+}
+.MERN{
+    box-shadow: 5px 0px 25px grey ;
+    margin-left: 75px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+
+}
+#blue-slice{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
 }
